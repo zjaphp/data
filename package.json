@@ -1,0 +1,30 @@
+{
+  "name": "zjaphp-data",
+  "version": "0.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "check": "biome check . --apply-unsafe && biome format . --write",
+    "postinstall": "githooks install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zjaphp/data.git"
+  },
+  "author": {
+    "name": "Demo Macro",
+    "email": "abc@imst.xyz",
+    "url": "https://imst.xyz/"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zjaphp/data/issues"
+  },
+  "homepage": "https://github.com/zjaphp/data#readme",
+  "devDependencies": {
+    "@funish/githooks": "edge",
+    "@funish/githooks-config": "edge",
+    "@funish/lint": "edge",
+    "@biomejs/biome": "1.3.3"
+  }
+}

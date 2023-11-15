@@ -1,0 +1,67 @@
+[
+  {
+    "category": "Office",
+    "list": [
+      {
+        "name": "小恐龙公文排版助手",
+        "url": "https://gw.xkonglong.com/",
+        "intro": "一键快速设置 Word 页面版式，支持首行缩进、删除空白等"
+      },
+      {
+        "name": "iSlide",
+        "url": "https://www.islide.cc/",
+        "intro": "基于 PPT 的插件工具，支持智能参考线、补间动画等"
+      },
+      {
+        "name": "万彩办公大师",
+        "url": "http://www.wofficebox.com/",
+        "intro": "PDF 工具/万能格式转换/识别工具/图片处理，多达 60+ 个小工具"
+      },
+      {
+        "name": "讯飞星火认知大模型",
+        "url": "https://xinghuo.xfyun.cn/",
+        "intro": "科大讯飞版 GPT"
+      },
+      {
+        "name": "Everything",
+        "url": "https://www.voidtools.com/zh-cn/",
+        "intro": "基于名称快速定位文件和文件夹"
+      }
+    ]
+  },
+  {
+    "category": "图像处理",
+    "list": [
+      {
+        "name": "Squoosh（中文版）",
+        "url": "https://squoosh.demomacro.com/",
+        "intro": "通过浏览器压缩和转换图像，无需服务器"
+      },
+      {
+        "name": "佐糖",
+        "url": "https://picwish.cn/",
+        "intro": "支持一键抠图、图片模糊变清晰等AI图像处理工具"
+      },
+      {
+        "name": "腾讯ARC",
+        "url": "https://arc.tencent.com/zh/ai-demos/faceRestoration",
+        "intro": "人脸修复、人像抠图、漫画增强"
+      }
+    ]
+  },
+  {
+    "category": "在线工具",
+    "list": [
+      {
+        "name": "Thoughtsell",
+        "url": "https://www.thoughtsell.com/",
+        "intro": "一站式聚合服务平台"
+      },
+      {
+        "name": "MikuTools",
+        "url": "https://tools.miku.ac/",
+        "intro": "一个轻量的工具集合"
+      }
+    ]
+  }
+]
